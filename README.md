@@ -7,4 +7,6 @@ This project has been realized thanks to the official tensorflow guide: https://
 
 ![Alt text](1.jpeg?raw=true "Execution Example 1")
 
+* * *
+
 ![Alt text](2.jpeg?raw=true "Execution Example 2")
